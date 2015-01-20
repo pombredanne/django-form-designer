@@ -1,7 +1,8 @@
 Django Form Designer
 ********************
 
-A Django app for building many kinds of forms visually, without any programming knowledge.
+A Django admin app with a GUI to create complex forms without any programming skills; 
+complete with logging, validation, and redirects.
 
 **Key features**:
 
@@ -15,6 +16,7 @@ A Django app for building many kinds of forms visually, without any programming 
   expression etc) 
 * Customizable messages and labels
 * Supports POST and GET forms
+* Signals on form render, submission, success, error.
 
 
 Installation
